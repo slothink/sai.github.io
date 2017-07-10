@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>사이월드</title>
+    <link>http://sai.github.io/world/</link>
+    <description>Recent content on 사이월드</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jul 2015 12:11:50 +0900</lastBuildDate>
+    
+	<atom:link href="http://sai.github.io/world/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start</title>
+      <link>http://sai.github.io/world/post/start/</link>
+      <pubDate>Fri, 03 Jul 2015 12:11:50 +0900</pubDate>
+      
+      <guid>http://sai.github.io/world/post/start/</guid>
+      <description>사이.월드 시작! 기존 slothink.tistory.com 에서 넘어왔습니다. 가벼운 마음으로 시작할게요. 이젠 ‘사이’ 라고 불러주세요:)</description>
+    </item>
+    
+  </channel>
+</rss>

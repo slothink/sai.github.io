@@ -1,0 +1,19 @@
+---
+title: "Hugo Cookbook"
+date: 2017-07-10T12:16:25+09:00
+draft: true
+---
+
+사이트 생성 : hugo new site {new site name}
+새글 작성 : hugo new {directiory/filename[postfix .md]}
+서버 구동 : hugo server
+드래프트 모드 서버 구동 : hugo server --buildDrafts
+테마 추가 :
+
+```
+cd themes
+git clone https://github.com/dim0627/hugo_theme_robust.git
+```
+특정 테마로 서버 구동 : hugo server --theme=hugo_theme_robust --buildDrafts
+
+사이트 기존 설정 : ${home}/config.toml
