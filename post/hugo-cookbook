@@ -17,3 +17,6 @@ git clone https://github.com/dim0627/hugo_theme_robust.git
 특정 테마로 서버 구동 : hugo server --theme=hugo_theme_robust --buildDrafts
 
 사이트 기존 설정 : ${home}/config.toml
+글공개하기 : hugo undraft content/post/good-to-great.md
+
+빌드 : hugo --theme=hugo_theme_robust
